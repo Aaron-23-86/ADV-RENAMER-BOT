@@ -75,7 +75,7 @@ async def about(bot, update):
         parse_mode="markdown",
         reply_to_message_id=update.message_id, 
         disable_web_page_preview = True, 
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="😇 DEVELOPER", url="https://t.me/Trackstudio")]])  
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="😇 DEVELOPER", url="https://t.me/Termin_a_t_o_r")]])  
     )
 
 
