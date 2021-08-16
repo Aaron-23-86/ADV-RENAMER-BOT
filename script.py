@@ -11,7 +11,7 @@ Send me any Telegram file and choose appropriate option!
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
 
-    UPGRADE_TEXT = "CONTACT @Ts_Bots"
+    UPGRADE_TEXT = "CONTACT @Termin_a_t_o_r"
 
     DOWNLOAD_START = "Download Started... "
 
@@ -27,7 +27,7 @@ Send me any Telegram file and choose appropriate option!
 
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
 
-    CUSTOM_CAPTION_UL_FILE = "@Ts_Bots"
+    CUSTOM_CAPTION_UL_FILE = "🤗"
 
     HELP_USER = """
 
