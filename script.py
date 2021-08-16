@@ -49,7 +49,7 @@ Send me any Telegram file and choose appropriate option!
 
 **About Me**
 
-○ ᴍʏ ɴᴀᴍᴇ : 𝚁𝙴𝙽𝙰𝙼𝙴𝚁 | Clone
+○ ᴍʏ ɴᴀᴍᴇ : 𝚁𝙴𝙽𝙰𝙼𝙴𝚁 | Thomas
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
@@ -57,10 +57,10 @@ Send me any Telegram file and choose appropriate option!
 
 ○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/Hillard-har/RENAMER-BOT) 
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://t.me/nokkiirunnoippokittum) 
 
 ○ ᴄʀᴇᴀᴛᴏʀ : [Aaron Shaji](https://t.me/Termin_a_t_o_r)
 
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/Ts_bots)**
+**[©️ Channel](https://t.me/Mallu_CINEMASSS )**
 
 """
