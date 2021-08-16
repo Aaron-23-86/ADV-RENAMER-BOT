@@ -42,7 +42,7 @@ Send me any Telegram file and choose appropriate option!
 4. Send the new file when bot asks 
 
 
-<b>By @Ts_Bots</b>
+<b>By @Termin_a_t_o_r</b>
 """
 
     ABOUT_TEXT = """
